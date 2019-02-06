@@ -1,0 +1,5 @@
+# namespace.yaml
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: wordpress-tutorial # This can be anything you want.
